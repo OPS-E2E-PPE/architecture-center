@@ -1,8 +1,6 @@
 ---
 title: "CAF: Examples of fiscal outcomes"
 titleSuffix: Microsoft Cloud Adoption Framework for Azure
-ms.service: architecture-center
-ms.subservice: enterprise-cloud-adoption
 ms.custom: governance
 description: Examples of fiscal outcomes
 author: BrianBlanchard

@@ -1,8 +1,6 @@
 ---
 title: "CAF: Create a financial model for cloud transformation"
 titleSuffix: Microsoft Cloud Adoption Framework for Azure
-ms.service: architecture-center
-ms.subservice: enterprise-cloud-adoption
 ms.custom: governance
 description: How to create a financial model for cloud transformation.
 author: BrianBlanchard
