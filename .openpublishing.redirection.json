@@ -266,6 +266,261 @@
       "source_path": "docs/microservices/gateway.md",
       "redirect_url": "/e2e-azure-architecture-center/microservices/design/gateway",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "docs/best-practices/index.md",
+      "redirect_url": "/azure/architecture/best-practices/api-design",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/checklist/index.md",
+      "redirect_url": "/azure/architecture/checklist/availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/appendix/index.md",
+      "redirect_url": "azure-scaffold",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/encryption/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/identity/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/log-and-report/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/policy-enforcement/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/resource-consistency/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/resource-tagging/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/software-defined-network/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/decision-guides/subscriptions/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/getting-started/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/cost-management/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/deployment-acceleration/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/identity-baseline/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/policy-compliance/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/resource-consistency/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/governance/security-baseline/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/infrastructure/basic-workload.md",
+      "redirect_url": "virtual-machines/basic-workload",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/infrastructure/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/infrastructure/mainframe-migration/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/cloud-adoption/operations/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/patterns/category/index.md",
+      "redirect_url": "/azure/patterns/category/availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/patterns/runtime-reconfiguration.md",
+      "redirect_url": "/azure/architecture/patterns",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/ai/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/ai/batch-scoring-deep-learning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/app-service-web-app/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/basic-web-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/dmz/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/dmz/secure-vnet-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/enterprise-integration/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/enterprise-integration/simple-enterprise-integration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/hybrid-networking/considerations.md",
+      "redirect_url": "/azure/architecture/reference-architectures/hybrid-networking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/identity/considerations.md",
+      "redirect_url": "/azure/architecture/reference-architectures/identity",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/n-tier/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-sql-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/sap/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/sap/sap-netweaver",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/serverless/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/serverless/web-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-linux/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-linux/multi-region-application.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-cassandra",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-linux/multi-vm.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-cassandra",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-linux/n-tier.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-cassandra",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-linux/single-vm.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/linux-vm",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-windows/index.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-windows/multi-region-application.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/multi-region-sql-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-windows/multi-vm.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-sql-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-windows/n-tier.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/n-tier-sql-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reference-architectures/virtual-machines-windows/single-vm.md",
+      "redirect_url": "/azure/architecture/reference-architectures/n-tier/windows-vm",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/resiliency/disaster-recovery-high-availability-azure-applications.md",
+      "redirect_url": "/azure/architecture/checklist/availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/resiliency/high-availability-azure-applications.md",
+      "redirect_url": "/azure/architecture/checklist/availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/resiliency/high-availability-checklist.md",
+      "redirect_url": "/azure/architecture/checklist/availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/resources/diagrams.md",
+      "redirect_url": "https://aka.ms/CnESymbols",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/resources/index.md",
+      "redirect_url": "/azure/architecture/resources/diagrams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/service-fabric/index.md",
+      "redirect_url": "/azure/architecture/service-fabric/migrate-from-cloud-services",
+      "redirect_document_id": false
     }
   ]
 }
