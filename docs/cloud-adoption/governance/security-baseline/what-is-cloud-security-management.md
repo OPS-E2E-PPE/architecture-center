@@ -4,7 +4,6 @@ titleSuffix: Microsoft Cloud Adoption Framework for Azure
 ms.service: architecture-center
 ms.subservice: enterprise-cloud-adoption
 ms.custom: governance
-ms.date: 02/11/2019
 description: What is the Cloud Security Baseline?
 author: BrianBlanchard
 ms.date: 10/10/2018

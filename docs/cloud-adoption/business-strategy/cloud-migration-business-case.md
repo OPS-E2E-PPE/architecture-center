@@ -1,8 +1,6 @@
 ---
 title:  "CAF: Build a cloud migration business case"
 titleSuffix: Microsoft Cloud Adoption Framework for Azure
-ms.service: architecture-center
-ms.subservice: enterprise-cloud-adoption
 ms.custom: governance
 description: Considerations for building a business justification for cloud migration.
 author: BrianBlanchard
