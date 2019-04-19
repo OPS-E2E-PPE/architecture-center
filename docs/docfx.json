@@ -47,6 +47,7 @@
     ],
     "overwrite": [],
     "externalReference": [],
+    "exportRawModel": true,
     "globalMetadata": {
       "feedback_system": "GitHub",
       "feedback_github_repo": "mspnp/architecture-center",
