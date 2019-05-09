@@ -76,6 +76,6 @@
       "docs.html"
     ],
     "dest": "azure",
-    "markdownEngineName": "dfm-latest"
+    "markdownEngineName": "markdig"
   }
 }
