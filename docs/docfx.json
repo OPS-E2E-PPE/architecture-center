@@ -76,6 +76,7 @@
       "docs.html"
     ],
     "dest": "azure",
+    "exportRawModel": true,
     "markdownEngineName": "markdig"
   }
 }
