@@ -3,13 +3,13 @@
 
 <ul  class="panelContent cardsC">
 <li style="display: flex; flex-direction: column;">
-    <a href="./ai/newsfeed-ingestion.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/ai/newsfeed-ingestion.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./ai/media/mass-ingestion-newsfeeds-architecture.png" height="140px" />
+                            <img src="../docs/example-scenario/ai/media/mass-ingestion-newsfeeds-architecture.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -22,13 +22,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./ai/commerce-chatbot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/ai/commerce-chatbot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./ai/media/architecture-commerce-chatbot.png" height="140px" />
+                            <img src="../docs/example-scenario/ai/media/architecture-commerce-chatbot.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -41,13 +41,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./ai/intelligent-apps-image-processing.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/ai/intelligent-apps-image-processing.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./ai/media/architecture-intelligent-apps-image-processing.png" height="140px" />
+                            <img src="../docs/example-scenario/ai/media/architecture-intelligent-apps-image-processing.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -60,13 +60,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./ai/movie-recommendations.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/ai/movie-recommendations.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./ai/media/architecture-movie-recommender.png" height="140px" />
+                            <img src="../docs/example-scenario/ai/media/architecture-movie-recommender.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -85,13 +85,13 @@
 
 <ul  class="panelContent cardsC">
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/apim-api-scenario.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/apim-api-scenario.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-apim-api-scenario.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-apim-api-scenario.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -104,13 +104,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/decentralized-trust.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/decentralized-trust.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-decentralized-trust.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-decentralized-trust.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -123,13 +123,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/devops-dotnet-webapp.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/devops-dotnet-webapp.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-devops-dotnet-webapp.svg" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-devops-dotnet-webapp.svg" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -142,13 +142,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/devops-with-aks.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/devops-with-aks.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-devops-with-aks.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-devops-with-aks.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -161,13 +161,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/ecommerce-scenario.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/ecommerce-scenario.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-ecommerce-scenario.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-ecommerce-scenario.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -180,13 +180,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/ecommerce-search.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/ecommerce-search.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-ecommerce-search.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-ecommerce-search.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -199,13 +199,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/hpc-saas.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/hpc-saas.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-hpc-saas.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-hpc-saas.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -218,13 +218,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/sap-dev-test.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/sap-dev-test.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-sap-dev-test.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-sap-dev-test.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -237,13 +237,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./apps/sap-production.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/apps/sap-production.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./apps/media/architecture-sap-production.png" height="140px" />
+                            <img src="../docs/example-scenario/apps/media/architecture-sap-production.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -262,13 +262,13 @@
 
 <ul  class="panelContent cardsC">
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/big-data-with-iot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/big-data-with-iot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-big-data-with-iot.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-big-data-with-iot.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -281,13 +281,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/data-warehouse.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/data-warehouse.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-data-warehouse.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-data-warehouse.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -300,13 +300,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/ecommerce-order-processing.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/ecommerce-order-processing.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-ecommerce-order-processing.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-ecommerce-order-processing.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -319,13 +319,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/fraud-detection.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/fraud-detection.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-fraud-detection.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-fraud-detection.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -338,13 +338,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/hybrid-etl-with-adf.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/hybrid-etl-with-adf.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-diagram-hybrid-etl-with-adf.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-diagram-hybrid-etl-with-adf.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -357,13 +357,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./data/realtime-analytics-vehicle-iot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/data/realtime-analytics-vehicle-iot.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./data/media/architecture-realtime-analytics-vehicle-data1.png" height="140px" />
+                            <img src="../docs/example-scenario/data/media/architecture-realtime-analytics-vehicle-data1.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -382,13 +382,13 @@
 
 <ul  class="panelContent cardsC">
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/hpc-cfd.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/hpc-cfd.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/architecture-hpc-cfd.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/architecture-hpc-cfd.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -401,13 +401,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/image-modeling.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/image-modeling.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/architecture-image-modeling.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/architecture-image-modeling.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -420,13 +420,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/linux-vdi-citrix.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/linux-vdi-citrix.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/azure-citrix-sample-diagram.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/azure-citrix-sample-diagram.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -439,13 +439,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/multi-tier-app-disaster-recovery.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/multi-tier-app-disaster-recovery.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/arhitecture-disaster-recovery-multi-tier-app.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/arhitecture-disaster-recovery-multi-tier-app.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -458,13 +458,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/regulated-multitier-app.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/regulated-multitier-app.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/architecture-regulated-multitier-app.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/architecture-regulated-multitier-app.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -477,13 +477,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/service-fabric-microservices.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/service-fabric-microservices.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/architecture-service-fabric-complete.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/architecture-service-fabric-complete.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -496,13 +496,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/video-rendering.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/video-rendering.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/architecture-video-rendering.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/architecture-video-rendering.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -515,13 +515,13 @@
     </a>
 </li>
 <li style="display: flex; flex-direction: column;">
-    <a href="./infrastructure/wordpress.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
+    <a href="../docs/example-scenario/infrastructure/wordpress.md" style="display: flex; flex-direction: column; flex: 1 0 auto;">
         <div class="cardSize" style="flex: 1 0 auto; display: flex;">
             <div class="cardPadding" style="display: flex;">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="./infrastructure/media/secure-scalable-wordpress.png" height="140px" />
+                            <img src="../docs/example-scenario/infrastructure/media/secure-scalable-wordpress.png" height="140px" />
                         </div>
                     </div>
                     <div class="cardText">
